@@ -1,0 +1,4 @@
+{
+    "data1": [{"nome":"Joao","ecolaridade":["tecnico","superior",{"escola":"ETEFGS","FACULDADE":"UNIP"}]}],
+    "data2": [{"nome":"Pedro","ecolaridade":["fundamental","Profissionalizante",{"escola":"GUSMAO","FACULDADE":"Senai"}]}]
+}
